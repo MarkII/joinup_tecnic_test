@@ -1,3 +1,9 @@
 joinup_venv/lib64
 joinup_venv/pyvenv.cfg
 joinup_venv/
+joinup/joinup/__pycache__/__init__.cpython-310.pyc
+joinup/joinup/__pycache__/settings.cpython-310.pyc
+joinup/joinup/__pycache__/urls.cpython-310.pyc
+joinup/joinup/__pycache__/wsgi.cpython-310.pyc
+joinup/joinup/local_settings.py
+joinup/joinup/__pycache__/local_settings.cpython-310.pyc
